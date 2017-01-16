@@ -1,4 +1,4 @@
-# [Always Be Imroving: Curating Developer Experiences](https://github.com/sravanti/always-be-improving/tree/master/interviews)
+# [Always Be Improving: Curating Developer Experiences](https://github.com/sravanti/always-be-improving/tree/master/interviews)
 
 Inspired by a Github project I saw [which curated interviews on how to be a better developer](https://github.com/ggomaeng/better-developer-quotes), I decided to run a similar project with my network, which focused on female developers. I asked anyone who was interested to fill out a short questionnaire focusing on how they improved their developer chops. There are some excellent tidbits of advice that I learned from doing these interviews, and I hope you find them to be helpful, too!
 
