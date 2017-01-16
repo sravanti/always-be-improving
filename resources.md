@@ -14,6 +14,7 @@
 - [Lesbians who Tech](http://lesbianswhotech.org/) - Community of queer women and allies in tech
 - [Girl Develop It](http://girldevelopit.com/) - A nonprofit organization in over 50 cities that provides affordable programs for adult women interested in learning web and software development in a judgment-free environment.
 - [Women Who Code](https://www.womenwhocode.com/) - A global nonprofit with a set of programs for engineers to help build the careers they want.
+- [PayUp](https://www.washingtonpost.com/graphics/business/womens-wages/) - A private, Slack-based community dedicated to fostering conversations about the gender wage gap. 
 
 ## Online courses (both free and paid)
 - [Udemy](https://www.udemy.com/)
