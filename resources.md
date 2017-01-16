@@ -1,6 +1,6 @@
 # Resources: 
 
-## Newsetters
+## Newsletters
 - [Cooper Press Newsletters](https://cooperpress.com/publications/) - Weekly newsletters to stay on top of topics like front-end development, databases, webops, mobile and more.
 - [Code with Veni](http://codewithveni.com/) - A newseletter for newbie women developers
 
@@ -9,11 +9,15 @@
 - [Ladies Storm Hackathons](https://www.facebook.com/groups/LadiesStormHackathons/) - A FB group for women and allies in tech. Includes links to location-specific groups and resources on coding in the "Description" section.
 - [Code Better Together](http://www.codebettertogether.com/) - A community of women in tech.
 - [United Women of Tech](http://unitedwomenoftech.com/) - From their site: "United Women of Tech helps women find communities around the world where they can learn to code, connect with others, find mentors, and be inspired."
+- [Female Founders Conference](https://www.facebook.com/groups/femalefoundersconference/) - Y Combinator's community of female founders, this group is great for supporting and meeting other entrepreneurs and leaders in tech.
+- [Bay Area Girl Geek Dinners](http://bayareagirlgeekdinners.com/) - Donation-based bimonthly dinners hosted by companies in the bay area
+- [Lesbians who Tech](http://lesbianswhotech.org/) - Community of queer women and allies in tech
 
 ## Online courses (both free and paid)
 - [Udemy](https://www.udemy.com/)
 - [Codecademy](https://www.codecademy.com)
 - [Codeschool](https://www.codeschool.com)
+- [Upcase](https://thoughtbot.com/upcase/sign_in)
 
 ## Blogs (commentary by Mel Reams)
 - http://raganwald.com/ - I don't write very much javascript but that doesn't mean I don't need to know about it.
