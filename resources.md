@@ -21,6 +21,7 @@
 - [Codecademy](https://www.codecademy.com)
 - [Codeschool](https://www.codeschool.com)
 - [Upcase](https://thoughtbot.com/upcase/sign_in)
+- [Egghead](https://egghead.io/)
 
 ## Blogs (commentary by Mel Reams)
 - http://raganwald.com/ - I don't write very much javascript but that doesn't mean I don't need to know about it.
