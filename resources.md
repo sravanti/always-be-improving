@@ -12,12 +12,16 @@
 - [Female Founders Conference](https://www.facebook.com/groups/femalefoundersconference/) - Y Combinator's community of female founders, this group is great for supporting and meeting other entrepreneurs and leaders in tech.
 - [Bay Area Girl Geek Dinners](http://bayareagirlgeekdinners.com/) - Donation-based bimonthly dinners hosted by companies in the bay area
 - [Lesbians who Tech](http://lesbianswhotech.org/) - Community of queer women and allies in tech
+- [Girl Develop It](http://girldevelopit.com/) - A nonprofit organization in over 50 cities that provides affordable programs for adult women interested in learning web and software development in a judgment-free environment.
+- [Women Who Code](https://www.womenwhocode.com/) - A global nonprofit with a set of programs for engineers to help build the careers they want.
+- [PayUp](https://www.washingtonpost.com/graphics/business/womens-wages/) - A private, Slack-based community dedicated to fostering conversations about the gender wage gap. 
 
 ## Online courses (both free and paid)
 - [Udemy](https://www.udemy.com/)
 - [Codecademy](https://www.codecademy.com)
 - [Codeschool](https://www.codeschool.com)
 - [Upcase](https://thoughtbot.com/upcase/sign_in)
+- [Egghead](https://egghead.io/)
 
 ## Blogs (commentary by Mel Reams)
 - http://raganwald.com/ - I don't write very much javascript but that doesn't mean I don't need to know about it.
