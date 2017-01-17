@@ -3,6 +3,8 @@
 ## Newsletters
 - [Cooper Press Newsletters](https://cooperpress.com/publications/) - Weekly newsletters to stay on top of topics like front-end development, databases, webops, mobile and more.
 - [Code with Veni](http://codewithveni.com/) - A newseletter for newbie women developers
+- [Ray Wenderlich](https://www.raywenderlich.com/newsletter) - Weekly newsletter including tutorials on iOS, Android, MacOS, Unity, and more.
+- [Swift Weekly](http://swiftweekly.com/) - Free Swift Dev. newsletter featuring code examples, tutorials, screencasts, and more.
 
 ## Communities
 - [Tech Ladies](https://www.hiretechladies.com/) - A community of women in tech. Includes access to a FB group and job postings.
@@ -16,7 +18,7 @@
 - [Women Who Code](https://www.womenwhocode.com/) - A global nonprofit with a set of programs for engineers to help build the careers they want.
 - [PayUp](https://www.washingtonpost.com/graphics/business/womens-wages/) - A private, Slack-based community dedicated to fostering conversations about the gender wage gap. 
 - [Women Techmakers](https://www.womentechmakers.com/) - A google-sponsored community for women including a newsletter with curated resources, mentoring and networking opportunities.
-
+- [She++](https://sheplusplus.org) - A program targeted at high school and college-age girls. They provide funding for tech events in your community, mentorship, and support.
 ## Online courses (both free and paid)
 - [Udemy](https://www.udemy.com/)
 - [Codecademy](https://www.codecademy.com)
