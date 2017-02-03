@@ -47,3 +47,10 @@
 - [Project Euler](https://projecteuler.net/)
 - [Advent of Code](http://adventofcode.com/)
 - [100 Days of Commits](https://100daysofcommits.github.io/)
+
+## Open Source Resources
+- [OpenHatch](https://openhatch.org/) - Matches developers with open source communities, tools, and education.
+- [Code Newbies Podast on Open Source](http://www.codenewbie.org/podcast/open-source-newbie)
+- [24 Pull Requests](https://24pullrequests.com/) - A seasonal project to get involved in OSS during the holidays.
+- [CodeTriage](https://www.codetriage.com/) - Connects developers with open source projects by getting an email in your inbox.
+- [First Timers Only](http://www.firsttimersonly.com) - Commit code to your first open source project.
