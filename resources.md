@@ -39,6 +39,7 @@
 - Katrina Owen
 - Uncle Bob
 - [Alaina Kafkes](https://www.youtube.com/channel/UCQq8mk_cb9y2cI3OAZVUCCA) - has beginner-friendly coding tutorials on APIs, Git, and Twitter bots
+- [Amy Chen](https://www.youtube.com/AmyCodes)
               
 ## Coding challenges
 - [interviewing.io](https://interviewing.io/)
